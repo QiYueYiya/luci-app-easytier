@@ -30,7 +30,7 @@ jobs:
         arch:
           - aarch64_cortex-a53
         sdk:
-          - openwrt-24.10.2
+          - -24.10.2
           - SNAPSHOT
 
     steps:
